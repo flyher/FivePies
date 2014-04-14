@@ -1,0 +1,1 @@
+D:\Project\20130614五子棋棋子\20130614黑白棋棋子\bin\Debug\five-in-a-row.exe.config
