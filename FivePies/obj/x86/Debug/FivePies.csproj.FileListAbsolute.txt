@@ -17,3 +17,9 @@ D:\Project\20130614五子棋棋子\FivePies\obj\x86\Debug\FivePies.csproj.Genera
 D:\Project\git\git\FivePies\FivePies\bin\Debug\FivePies.exe.config
 D:\Project\git\git\FivePies\FivePies\obj\x86\Debug\FivePies.exe
 D:\Project\git\git\FivePies\FivePies\obj\x86\Debug\FivePies.pdb
+D:\Project\git\git\FivePies\FivePies\bin\Debug\FivePies.exe
+D:\Project\git\git\FivePies\FivePies\bin\Debug\FivePies.pdb
+D:\Project\git\git\FivePies\FivePies\obj\x86\Debug\FivePies.csprojResolveAssemblyReference.cache
+D:\Project\git\git\FivePies\FivePies\obj\x86\Debug\_FivePies.Form1.resources
+D:\Project\git\git\FivePies\FivePies\obj\x86\Debug\_FivePies.Properties.Resources.resources
+D:\Project\git\git\FivePies\FivePies\obj\x86\Debug\FivePies.csproj.GenerateResource.Cache
