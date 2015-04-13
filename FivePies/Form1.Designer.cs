@@ -42,7 +42,7 @@
             this.btnCreate.Name = "btnCreate";
             this.btnCreate.Size = new System.Drawing.Size(75, 23);
             this.btnCreate.TabIndex = 0;
-            this.btnCreate.Text = "坐标";
+            this.btnCreate.Text = "坐标分布";
             this.btnCreate.UseVisualStyleBackColor = true;
             this.btnCreate.Click += new System.EventHandler(this.btnCreate_Click);
             // 
@@ -51,9 +51,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(50, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(41, 12);
+            this.label1.Size = new System.Drawing.Size(53, 12);
             this.label1.TabIndex = 1;
-            this.label1.Text = "label1";
+            this.label1.Text = "横向检测";
             // 
             // btnAg
             // 
@@ -61,7 +61,7 @@
             this.btnAg.Name = "btnAg";
             this.btnAg.Size = new System.Drawing.Size(75, 23);
             this.btnAg.TabIndex = 2;
-            this.btnAg.Text = "恢复";
+            this.btnAg.Text = "重新绘制";
             this.btnAg.UseVisualStyleBackColor = true;
             this.btnAg.Click += new System.EventHandler(this.btnAg_Click);
             // 
@@ -70,9 +70,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(155, 9);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(41, 12);
+            this.label2.Size = new System.Drawing.Size(53, 12);
             this.label2.TabIndex = 1;
-            this.label2.Text = "label2";
+            this.label2.Text = "竖向检测";
             // 
             // label3
             // 
@@ -81,7 +81,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(41, 12);
             this.label3.TabIndex = 1;
-            this.label3.Text = "label3";
+            this.label3.Text = "左斜向";
             // 
             // label4
             // 
@@ -90,7 +90,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(41, 12);
             this.label4.TabIndex = 1;
-            this.label4.Text = "label4";
+            this.label4.Text = "右斜向";
             // 
             // Form1
             // 

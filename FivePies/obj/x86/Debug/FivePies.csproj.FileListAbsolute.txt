@@ -23,3 +23,11 @@ D:\Project\git\git\FivePies\FivePies\obj\x86\Debug\FivePies.csprojResolveAssembl
 D:\Project\git\git\FivePies\FivePies\obj\x86\Debug\_FivePies.Form1.resources
 D:\Project\git\git\FivePies\FivePies\obj\x86\Debug\_FivePies.Properties.Resources.resources
 D:\Project\git\git\FivePies\FivePies\obj\x86\Debug\FivePies.csproj.GenerateResource.Cache
+E:\Work\git\FivePies\FivePies\bin\Debug\FivePies.exe.config
+E:\Work\git\FivePies\FivePies\obj\x86\Debug\FivePies.exe
+E:\Work\git\FivePies\FivePies\obj\x86\Debug\FivePies.pdb
+E:\Work\git\FivePies\FivePies\bin\Debug\FivePies.exe
+E:\Work\git\FivePies\FivePies\obj\x86\Debug\_FivePies.Form1.resources
+E:\Work\git\FivePies\FivePies\obj\x86\Debug\_FivePies.Properties.Resources.resources
+E:\Work\git\FivePies\FivePies\obj\x86\Debug\FivePies.csproj.GenerateResource.Cache
+E:\Work\git\FivePies\FivePies\bin\Debug\FivePies.pdb
