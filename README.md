@@ -4,6 +4,10 @@ FivePies
 A Gobang game develop by Csharp.<br>
 ===<br><br>
 
+更新时间:2015-04-13<br/>
+更新至VS2012，缺一个AI机器人
+
+<br>
 创建时间:2013-06-14<br>
 更新时间:2014-04-14<br>
 增加:<br>
